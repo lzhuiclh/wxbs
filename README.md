@@ -55,11 +55,11 @@
 - CONFIG的内容：
 
   ```json
-  {
-  "USER": "2465781308@qq.com",
-  "PWD": "ws123456",
-  "MIN_STEP": "2000",
-  "MAX_STEP": "8000",
+ {
+  "USER": "abcxxx@xx.com",
+  "PWD": "password",
+  "MIN_STEP": "18000",
+  "MAX_STEP": "25000",
   "PUSH_PLUS_TOKEN": "",
   "PUSH_PLUS_HOUR": "",
   "PUSH_PLUS_MAX": "30",
