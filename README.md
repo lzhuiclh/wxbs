@@ -56,16 +56,16 @@
 
   ```json
   {
-    "USER": "abcxxx@xx.com",
-    "PWD": "password",
-    "MIN_STEP": "18000",
-    "MAX_STEP": "25000",
-    "PUSH_PLUS_TOKEN": "",
-    "PUSH_PLUS_HOUR": "",
-    "PUSH_PLUS_MAX": "30",
-    "SLEEP_GAP": "5",
-    "USE_CONCURRENT": "False"
-  }
+  "USER": "2465781308@qq.com",
+  "PWD": "ws123456",
+  "MIN_STEP": "2000",
+  "MAX_STEP": "8000",
+  "PUSH_PLUS_TOKEN": "",
+  "PUSH_PLUS_HOUR": "",
+  "PUSH_PLUS_MAX": "30",
+  "SLEEP_GAP": "5",
+  "USE_CONCURRENT": "False"
+}
   ```
 
   | 字段名             | 格式                                                                                              |
