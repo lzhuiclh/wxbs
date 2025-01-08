@@ -55,17 +55,17 @@
 - CONFIG的内容：
 
   ```json
- {
-  "USER": "abcxxx@xx.com",
-  "PWD": "password",
-  "MIN_STEP": "18000",
-  "MAX_STEP": "25000",
-  "PUSH_PLUS_TOKEN": "",
-  "PUSH_PLUS_HOUR": "",
-  "PUSH_PLUS_MAX": "30",
-  "SLEEP_GAP": "5",
-  "USE_CONCURRENT": "False"
-}
+  {
+    "USER": "abcxxx@xx.com",
+    "PWD": "password",
+    "MIN_STEP": "18000",
+    "MAX_STEP": "25000",
+    "PUSH_PLUS_TOKEN": "",
+    "PUSH_PLUS_HOUR": "",
+    "PUSH_PLUS_MAX": "30",
+    "SLEEP_GAP": "5",
+    "USE_CONCURRENT": "False"
+  }
   ```
 
   | 字段名             | 格式                                                                                              |
@@ -97,7 +97,6 @@
   "PUSH_PLUS_HOUR": ""
 }
 ```
-
 #### 注意 **#** 分隔的账号和密码数量必须匹配，否则将跳过执行
 
 ### 四、自定义启动时间
